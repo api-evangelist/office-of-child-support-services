@@ -5,8 +5,7 @@ url: >2-
 apis:
   - aid: office-of-child-support-services:office-of-child-support-services
     name: Office of Child Support Services
-    tags:
-      - API
+    tags: []
     humanURL: https://www.acf.hhs.gov/css
     properties:
       - url: https://www.acf.hhs.gov/css
