@@ -18,6 +18,8 @@ apis:
       (OCC).
 name: Office of Child Support Services
 tags:
+  - Federal-Government
+tags_raw:
   - Federal Government
 kind: contract
 accessModel:
