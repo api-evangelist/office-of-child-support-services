@@ -1,4 +1,4 @@
-# Office of Child Support Services (office-of-child-support-services)
+# Office of Child Support Services
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,50 +64,60 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Office of Child Support Services is a government agency that works to ensure that children receive the financial support they need from their non-custodial parent. This office helps establish legal paternity, locate absent parents, and establish and enforce child support orders. They work with both custodial and non-custodial parents to facilitate the collection and distribution of child support payments, ensuring that children have the resources they need to thrive. Additionally, the Office of Child Support Services provides educational resources and services to assist parents in understanding and meeting their child support obligations. Overall, this agency plays a crucial role in promoting the financial well-being of children and families.
+The Office of Child Support Services is a government agency that works to ensure that children receive the financial support they need from their non-custodial parent. This office helps establish legal paternity, locate absent parents, and establish and enforce child support orders. They work with both custodial and non-custodial parents to facilitate the collection and distribution of child support payments, ensuring that children have the resources they need to thrive.
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/office-of-child-support-services/refs/heads/main/apis.yml)
+**Areas:** Federal Government
 
-## Scope
+## Office of Child Support Services on APIs.io
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Office of Child Support Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/office-of-child-support-services/](https://apis.io/providers/office-of-child-support-services/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Federal Government
+- [Office of Child Support Services](https://apis.io/apis/office-of-child-support-services/office-of-child-support-services/) — U.S. Department of Health & Human Services; Administration for Children & Families; Select an ACF Office. Administration for Native Americans (ANA)…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Office of Child Support Services
+Authentication, trust centre, and vulnerability disclosure.
 
-U.S. Department of Health & Human Services; Administration for Children &
-Families; Select an ACF Office. Administration for Native Americans (ANA)
-Administration on Children, Youth, and Families (ACYF) Childrens Bureau
-(CB) Early Childhood Development (ECD) Family and Youth Services Bureau
-(FYSB) Office of Child Care (OCC)
+- [Office Of Child Support Services Domain Security](https://apis.io/security/office-of-child-support-services/office-of-child-support-services-domain-security/)
 
-**Human URL:** [https://www.acf.hhs.gov/css](https://www.acf.hhs.gov/css)
+#### Plans and pricing (1)
 
+Published plans, tiers and prices.
 
-#### Tags:
+- [Office Of Child Support Services Plans Pricing](https://apis.io/plans/office-of-child-support-services/office-of-child-support-services-plans-pricing/)
 
- - API
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://www.acf.hhs.gov/css)
+- [Office Of Child Support Services Rate Limits](https://apis.io/rate-limits/office-of-child-support-services/office-of-child-support-services-rate-limits/)
 
-## Maintainers
+#### FinOps (1)
 
-**FN:** Kin Lane
+What the API costs to run, by operation.
 
-**Email:** kin@apievangelist.com
+- [Office Of Child Support Services Finops](https://apis.io/finops/office-of-child-support-services/office-of-child-support-services-finops/)
 
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Office of Child Support Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/office-of-child-support-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
